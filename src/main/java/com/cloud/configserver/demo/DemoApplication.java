@@ -9,6 +9,8 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 public class DemoApplication {
 
     public static void main(String[] args) {
+        // 변경점 테스트
+
         SpringApplication.run(DemoApplication.class, args);
     }
 
