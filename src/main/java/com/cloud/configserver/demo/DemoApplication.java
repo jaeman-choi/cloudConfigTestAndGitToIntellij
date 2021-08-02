@@ -10,7 +10,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         // 변경점 테스트
-
+        System.out.println("chk?");
         SpringApplication.run(DemoApplication.class, args);
     }
 
